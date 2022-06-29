@@ -1,4 +1,4 @@
-// Simple calcuator app
+// Simple calculator app
 
 import "dart:io";
 
